@@ -1,7 +1,7 @@
 # folderCompare
 Compares contents of two folders and displays their differences
 
-Usage: python3 folderCompare.py <leftFolderPath> <rightFolderPath>
+Usage: python3 folderCompare.py [leftFolderPath] [rightFolderPath]
 
 Color meanings:
     yellow: file/folder only exist either in left or right folder
